@@ -1,30 +1,30 @@
 {
   "files": {
     "main.css": "/about-me/static/css/main.5f361e03.chunk.css",
-    "main.js": "/about-me/static/js/main.13019322.chunk.js",
-    "main.js.map": "/about-me/static/js/main.13019322.chunk.js.map",
+    "main.js": "/about-me/static/js/main.12e249f0.chunk.js",
+    "main.js.map": "/about-me/static/js/main.12e249f0.chunk.js.map",
     "runtime-main.js": "/about-me/static/js/runtime-main.f1961d8b.js",
     "runtime-main.js.map": "/about-me/static/js/runtime-main.f1961d8b.js.map",
     "static/css/2.af0132db.chunk.css": "/about-me/static/css/2.af0132db.chunk.css",
-    "static/js/2.74162c8d.chunk.js": "/about-me/static/js/2.74162c8d.chunk.js",
-    "static/js/2.74162c8d.chunk.js.map": "/about-me/static/js/2.74162c8d.chunk.js.map",
+    "static/js/2.5290e026.chunk.js": "/about-me/static/js/2.5290e026.chunk.js",
+    "static/js/2.5290e026.chunk.js.map": "/about-me/static/js/2.5290e026.chunk.js.map",
     "2c5fe8d3f2a9ebec7718.worker.js": "/about-me/2c5fe8d3f2a9ebec7718.worker.js",
     "2c5fe8d3f2a9ebec7718.worker.js.LICENSE.txt": "/about-me/2c5fe8d3f2a9ebec7718.worker.js.LICENSE.txt",
     "2c5fe8d3f2a9ebec7718.worker.js.map": "/about-me/2c5fe8d3f2a9ebec7718.worker.js.map",
     "index.html": "/about-me/index.html",
-    "precache-manifest.769f8c163ad61e07b43010c0cc147d3a.js": "/about-me/precache-manifest.769f8c163ad61e07b43010c0cc147d3a.js",
+    "precache-manifest.24c1280df58757229ab6471c8aac86c3.js": "/about-me/precache-manifest.24c1280df58757229ab6471c8aac86c3.js",
     "service-worker.js": "/about-me/service-worker.js",
     "static/css/2.af0132db.chunk.css.map": "/about-me/static/css/2.af0132db.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/about-me/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.74162c8d.chunk.js.LICENSE.txt": "/about-me/static/js/2.74162c8d.chunk.js.LICENSE.txt",
+    "static/js/2.5290e026.chunk.js.LICENSE.txt": "/about-me/static/js/2.5290e026.chunk.js.LICENSE.txt",
     "static/media/Resume_of_Luscious_Larry_Das.pdf": "/about-me/static/media/Resume_of_Luscious_Larry_Das.26ed8a72.pdf",
     "static/media/me.png": "/about-me/static/media/me.d5ef4c71.png"
   },
   "entrypoints": [
     "static/js/runtime-main.f1961d8b.js",
     "static/css/2.af0132db.chunk.css",
-    "static/js/2.74162c8d.chunk.js",
+    "static/js/2.5290e026.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.13019322.chunk.js"
+    "static/js/main.12e249f0.chunk.js"
   ]
 }
