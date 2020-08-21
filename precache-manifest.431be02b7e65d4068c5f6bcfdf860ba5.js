@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/about-me/2c5fe8d3f2a9ebec7718.worker.js.LICENSE.txt"
   },
   {
-    "revision": "6881e2f28465859f4b9fcc876ed77571",
+    "revision": "6b4aa56833bd72cc12a2617f8fc49b26",
     "url": "/about-me/index.html"
   },
   {
